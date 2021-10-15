@@ -135,8 +135,7 @@ public extension Project {
         )
         
         let targets: [Target] = [
-            mainTarget,
-            testTarget
+            mainTarget
         ]
         
         return Project(

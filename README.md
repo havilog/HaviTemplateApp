@@ -1,5 +1,7 @@
 # HaviTemplateApp
 
+참고 깃허브: [갓소네님 TemplateApp](https://github.com/minsOne/iOSApplicationTemplate)
+
 # 계층 구조
 
 ![image](https://github.com/hansangjin96/HaviTemplateApp/blob/main/graph.png)
